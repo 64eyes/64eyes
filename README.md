@@ -11,8 +11,7 @@ and software engineering, seamlessly integrating human expertise with cuttinged
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I studied at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently upgrading my knowledge of JavaScript, Reactjs, and Python.
-- 😊 I’m seeking help with open-source projects, hackathons, and entry-level opportunities.
+- 🌱 I’m currently upgrading my knowledge of Next.js, TypeScript and Python.
 - 💼 Job interests: Software Engineer(Junior Level), Front End Developer.
 - 📫 You can [view my resume](#) and contact me by emailing madamorit8@gmail.com.
 
